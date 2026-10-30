@@ -1,2 +1,2 @@
 # agenda-study.github.io
-Website
+Agenda: AI Study Planner Website
